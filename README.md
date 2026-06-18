@@ -1,6 +1,6 @@
 # Purbanchal University C Programming Assignments
 
-This repository contains the complete set of C programming solutions for **Assignment 3 **. The programs cover fundamental computer science concepts, basic problem-solving algorithms, data structures, and file handling practices required by the university curriculum.
+This repository contains the complete set of C programming solutions for **Assignment 3**. The programs cover fundamental computer science concepts, basic problem-solving algorithms, data structures, and file handling practices required by the university curriculum.
 
 ## 📌 Project Overview
 * **Institution:** Purbanchal University
